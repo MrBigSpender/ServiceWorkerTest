@@ -1,0 +1,12 @@
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\bin\Debug\net6.0\TcpIpServer.deps.json
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\bin\Debug\net6.0\TcpIpServer.dll
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\bin\Debug\net6.0\TcpIpServer.pdb
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\obj\Debug\net6.0\TcpIpServer.csproj.AssemblyReference.cache
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\obj\Debug\net6.0\TcpIpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\obj\Debug\net6.0\TcpIpServer.AssemblyInfoInputs.cache
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\obj\Debug\net6.0\TcpIpServer.AssemblyInfo.cs
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\obj\Debug\net6.0\TcpIpServer.csproj.CoreCompileInputs.cache
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\obj\Debug\net6.0\TcpIpServer.dll
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\obj\Debug\net6.0\refint\TcpIpServer.dll
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\obj\Debug\net6.0\TcpIpServer.pdb
+C:\GITHUB\ServiceWorkerTest\TcpIpServer\obj\Debug\net6.0\ref\TcpIpServer.dll

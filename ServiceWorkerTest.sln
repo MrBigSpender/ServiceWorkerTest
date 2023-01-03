@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceWorkerTest", "ServiceWorkerTest\ServiceWorkerTest.csproj", "{77B7D5E1-C030-4928-9A70-41537BB34746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpIpServer", "TcpIpServer\TcpIpServer.csproj", "{4EA47485-B8A2-4E18-A0A0-80260E82515B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B7D5E1-C030-4928-9A70-41537BB34746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B7D5E1-C030-4928-9A70-41537BB34746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B7D5E1-C030-4928-9A70-41537BB34746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B7D5E1-C030-4928-9A70-41537BB34746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA47485-B8A2-4E18-A0A0-80260E82515B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA47485-B8A2-4E18-A0A0-80260E82515B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA47485-B8A2-4E18-A0A0-80260E82515B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA47485-B8A2-4E18-A0A0-80260E82515B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA4FB091-0859-4710-9825-BB300167D29C}
+	EndGlobalSection
+EndGlobal

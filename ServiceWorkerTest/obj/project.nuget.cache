@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7ot0K1PJaYuSXUh8DUQx/WddT2qvOxJgD8hP0UY60zdbOAIJ7/a0LO0Mwb+M2B1ONffrL2466SoGk7dTi2TnQ==",
+  "success": true,
+  "projectFilePath": "C:\\GITHUB\\ServiceWorkerTest\\ServiceWorkerTest\\ServiceWorkerTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hakan\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SimpleTCP 1.0.24' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SimpleTCP",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
