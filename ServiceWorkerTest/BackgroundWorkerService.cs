@@ -14,8 +14,11 @@ namespace ServiceWorkerTest
 
         protected async override Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            ExecuteInst executeInst= new ExecuteInst();
-            executeInst.test();
+            SocketListener socketListener = new SocketListener();
+            socketListener.StartServer();
+            
+            ExecuteInst executeInst = new ExecuteInst();
+            executeInst.StartClient();
 
             while (!stoppingToken.IsCancellationRequested)
             {

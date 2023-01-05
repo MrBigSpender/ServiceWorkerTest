@@ -7,15 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="TcpIpServer.cs" />
+    <Compile Remove="SocketListener.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="TcpIpServer.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="SimpleTCP" Version="1.0.24" />
+    <None Include="SocketListener.cs" />
   </ItemGroup>
 
 </Project>

@@ -29,5 +29,3 @@ C:\GITHUB\ServiceWorkerTest\ServiceWorkerTest\obj\Debug\net6.0\refint\ServiceWor
 C:\GITHUB\ServiceWorkerTest\ServiceWorkerTest\obj\Debug\net6.0\ServiceWorkerTest.pdb
 C:\GITHUB\ServiceWorkerTest\ServiceWorkerTest\obj\Debug\net6.0\ServiceWorkerTest.genruntimeconfig.cache
 C:\GITHUB\ServiceWorkerTest\ServiceWorkerTest\obj\Debug\net6.0\ref\ServiceWorkerTest.dll
-C:\GITHUB\ServiceWorkerTest\ServiceWorkerTest\bin\Debug\net6.0\SimpleTCP.dll
-C:\GITHUB\ServiceWorkerTest\ServiceWorkerTest\obj\Debug\net6.0\ServiceWorkerTest.csproj.CopyComplete

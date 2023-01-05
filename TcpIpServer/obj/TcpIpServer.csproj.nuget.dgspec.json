@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\GITHUB\\ServiceWorkerTest\\TcpIpServer\\TcpIpServer.csproj",
         "projectName": "TcpIpServer",
         "projectPath": "C:\\GITHUB\\ServiceWorkerTest\\TcpIpServer\\TcpIpServer.csproj",
-        "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\axheihak\\.nuget\\packages\\",
         "outputPath": "C:\\GITHUB\\ServiceWorkerTest\\TcpIpServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\axheihak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://lifecare-nuget.int.tieto.com/api/v2": {}
         },
         "frameworks": {
           "net6.0": {
@@ -39,12 +40,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "SimpleTCP": {
-              "target": "Package",
-              "version": "[1.0.24, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
